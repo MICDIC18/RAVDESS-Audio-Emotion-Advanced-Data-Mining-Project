@@ -14,9 +14,9 @@ The goal of this project is to perform a complete advanced data mining workflow 
 - **Model explainability** using **LIME** and **SHAP**
 
 ## Repository Structure
-- 📁 `Datasets/` → Contains the training and test datasets (`RavdessAudioOnlyFeatures_TRAIN.csv`, `RavdessAudioOnlyFeatures_TEST.csv`).
-- 📁 `Notebooks/` → Jupyter notebooks for each phase of the analysis.
-- 📄 `DM2_Progetto dicandia.pdf` → Final project report describing the methodology, results, and conclusions.
+-  `Datasets/` → Contains the training and test datasets (`RavdessAudioOnlyFeatures_TRAIN.csv`, `RavdessAudioOnlyFeatures_TEST.csv`).
+-  `Notebooks/` → Jupyter notebooks for each phase of the analysis.
+-  `DM2_Progetto dicandia.pdf` → Final project report describing the methodology, results, and conclusions.
 
 ## Tools and Libraries
 The analysis was implemented in **Python** using:
